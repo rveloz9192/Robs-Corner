@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rveloz\\source\\repos\\Engraver\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj": {}
+    "E:\\Engraver\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rveloz\\source\\repos\\Engraver\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj": {
+    "E:\\Engraver\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rveloz\\source\\repos\\Engraver\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj",
+        "projectUniqueName": "E:\\Engraver\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj",
         "projectName": "Engraver.TAD.ADM",
-        "projectPath": "C:\\Users\\rveloz\\source\\repos\\Engraver\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj",
+        "projectPath": "E:\\Engraver\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj",
         "packagesPath": "C:\\Users\\rveloz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rveloz\\source\\repos\\Engraver\\Engraver.TAD.ADM\\obj\\",
+        "outputPath": "E:\\Engraver\\Engraver.TAD.ADM\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
