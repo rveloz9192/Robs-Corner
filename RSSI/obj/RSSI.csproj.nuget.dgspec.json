@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rveloz\\Source\\Repos\\rveloz9192\\Robs-Corner\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj": {}
+    "C:\\Users\\rveloz\\Source\\Repos\\rveloz9192\\Robs-Corner\\RSSI\\RSSI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rveloz\\Source\\Repos\\rveloz9192\\Robs-Corner\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj": {
+    "C:\\Users\\rveloz\\Source\\Repos\\rveloz9192\\Robs-Corner\\RSSI\\RSSI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rveloz\\Source\\Repos\\rveloz9192\\Robs-Corner\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj",
-        "projectName": "Engraver.TAD.ADM",
-        "projectPath": "C:\\Users\\rveloz\\Source\\Repos\\rveloz9192\\Robs-Corner\\Engraver.TAD.ADM\\Engraver.TAD.ADM.csproj",
+        "projectUniqueName": "C:\\Users\\rveloz\\Source\\Repos\\rveloz9192\\Robs-Corner\\RSSI\\RSSI.csproj",
+        "projectName": "RSSI",
+        "projectPath": "C:\\Users\\rveloz\\Source\\Repos\\rveloz9192\\Robs-Corner\\RSSI\\RSSI.csproj",
         "packagesPath": "C:\\Users\\rveloz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rveloz\\Source\\Repos\\rveloz9192\\Robs-Corner\\Engraver.TAD.ADM\\obj\\",
+        "outputPath": "C:\\Users\\rveloz\\Source\\Repos\\rveloz9192\\Robs-Corner\\RSSI\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -38,9 +38,13 @@
       "frameworks": {
         "net472": {
           "dependencies": {
-            "SimpleTCP": {
+            "HtmlAgilityPack": {
               "target": "Package",
-              "version": "[1.0.24, )"
+              "version": "[1.11.12, )"
+            },
+            "Microsoft.Office.Interop.Excel": {
+              "target": "Package",
+              "version": "[15.0.4795.1000, )"
             }
           }
         }

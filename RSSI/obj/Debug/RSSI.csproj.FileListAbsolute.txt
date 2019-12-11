@@ -1,0 +1,3 @@
+C:\Users\rveloz\Source\Repos\rveloz9192\Robs-Corner\RSSI\obj\Debug\RSSI.csprojAssemblyReference.cache
+C:\Users\rveloz\Source\Repos\rveloz9192\Robs-Corner\RSSI\obj\Debug\RSSI.Main.resources
+C:\Users\rveloz\Source\Repos\rveloz9192\Robs-Corner\RSSI\obj\Debug\RSSI.csproj.GenerateResource.cache
