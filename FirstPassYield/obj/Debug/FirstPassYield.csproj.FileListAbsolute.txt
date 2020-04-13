@@ -26,3 +26,4 @@ C:\Users\rveloz\Source\Repos\rveloz9192\Robs-Corner\FirstPassYield\obj\Debug\Fir
 C:\Users\rveloz\Source\Repos\rveloz9192\Robs-Corner\FirstPassYield\obj\Debug\FirstPassYield.csproj.GenerateResource.cache
 C:\Users\rveloz\Source\Repos\rveloz9192\Robs-Corner\FirstPassYield\obj\Debug\FirstPassYield.exe
 C:\Users\rveloz\Source\Repos\rveloz9192\Robs-Corner\FirstPassYield\obj\Debug\FirstPassYield.pdb
+C:\Users\rveloz\Source\Repos\rveloz9192\Robs-Corner\FirstPassYield\obj\Debug\FirstPassYield.csproj.CoreCompileInputs.cache
